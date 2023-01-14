@@ -1,0 +1,1 @@
+select id, mid, uid, date, state from t_order where state = 0 limit 0, 10
